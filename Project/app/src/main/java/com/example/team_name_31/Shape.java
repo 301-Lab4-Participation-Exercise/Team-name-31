@@ -1,2 +1,7 @@
-package com.example.team_name_31;public class Shape {
+package com.example.team_name_31;
+
+public abstract class Shape {
+    int x;
+    int y;
+
 }
